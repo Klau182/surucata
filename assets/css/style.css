@@ -1,0 +1,42 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.titulo {
+    margin-top: 100px;
+    color: #707070;
+}
+
+.rosado {
+    background-color: #e83e8c;
+}
+
+#navbarNav {
+    justify-content: right;
+  }
+    
+  .icons-section {
+      background-color: #17A2B8;
+      height: 160px;
+      vertical-align: middle;
+  }
+    
+  .iconos{
+      padding-top: 60px;
+      font-size: 1em;
+  }
+    
+  .pagos {
+      padding-top: 60px;
+      font-size: 0.99em;
+  }
+    
+  footer img {
+      width: 53px;
+      height: 100px;
+  }
+    
+  footer {
+      height: 150px;
+  }
+  
